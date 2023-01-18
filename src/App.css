@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+body{
+  background-color: beige;
+}
+.form-field {
+  margin: 1rem;
+}
+
 
 .App-logo {
   height: 40vmin;
